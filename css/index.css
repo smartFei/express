@@ -1,0 +1,18 @@
+.panel {
+    /* height: 500px; */
+    /* width: 500px; */
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    padding: 20px 20px 0px 20px;
+}
+
+#button-box {
+    margin-top: 15px;
+    margin-left: 108px;
+}
+
+#express_info{
+    display: none;
+}
