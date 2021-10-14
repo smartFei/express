@@ -10,7 +10,7 @@
 ****
 ### 二 接口详情
 
-**接口地址:https://service-aso0zwjk-1259654864.gz.apigw.tencentcs.com/release/express_api**
+**接口地址: https://service-aso0zwjk-1259654864.gz.apigw.tencentcs.com/release/express_api**
 
 **提交方式: POST**
 
